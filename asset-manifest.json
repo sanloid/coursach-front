@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coursach-front/static/css/main.e92df3c8.css",
+    "main.js": "/coursach-front/static/js/main.27302033.js",
+    "index.html": "/coursach-front/index.html",
+    "main.e92df3c8.css.map": "/coursach-front/static/css/main.e92df3c8.css.map",
+    "main.27302033.js.map": "/coursach-front/static/js/main.27302033.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e92df3c8.css",
+    "static/js/main.27302033.js"
+  ]
+}
